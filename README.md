@@ -9,7 +9,7 @@ I am currently learning AI and ML.
 I am focused on building strong fundamentals in programming, problem-solving and machine learning.
 
 
-Currently working on a few minor projetcs.
+Currently working on a few projetcs.
 
 
 Skills: Python, C/C++, Java, HTML
